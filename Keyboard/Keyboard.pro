@@ -2,24 +2,24 @@ EAGLE AutoRouter Statistics:
 
 Job           : C:/Users/bench/Documents/GitHub/AkiraCyberdeck/Keyboard/Keyboard.brd
 
-Start at      : 17:36:07 (9/21/2020)
-End at        : 17:37:41 (9/21/2020)
-Elapsed time  : 00:01:33
+Start at      : 09:57:14 (9/23/2020)
+End at        : 16:00:00 (12/31/1969)
+Elapsed time  : 00:00:00
 
-Signals       :    98   RoutingGrid: 6.25 mil  Layers: 2
-Connections   :   594   predefined:  210 ( 0 Vias )
+Signals       :    98   RoutingGrid: 6 mil  Layers: 2
+Connections   :   793   predefined:  518 ( 67 Vias )
 
-Router memory :   5876928
+Router memory :   6376808
 
-Passname          :    Busses     Route Optimize1 Optimize2 Optimize3 Optimize4
+Passname          : TopRouter
 
-Time per pass     :  00:00:02  00:00:14  00:00:21  00:00:18  00:00:18  00:00:20
-Number of Ripups  :         0         0         0         0         0         0
-max. Level        :         0         0         0         0         0         0
-max. Total        :         0         0         0         0         0         0
+Time per pass     :  00:00:00
+Number of Ripups  :         0
+max. Level        :         0
+max. Total        :         0
 
-Routed            :        60       312       384       384       384       384
-Vias              :         0       198        58        82        81        68
-Resolution        :    45.5 %    87.9 %   100.0 %   100.0 %   100.0 %   100.0 %
+Routed            :         0
+Vias              :         0
+Resolution        :    65.3 %
 
-Final             : 100.0% finished
+Final             : 99.2% finished
